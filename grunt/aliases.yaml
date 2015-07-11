@@ -1,0 +1,8 @@
+default : []
+
+sassIt :
+    - 'sass'
+
+injectIt :
+    - 'wiredep'
+    - 'injector'

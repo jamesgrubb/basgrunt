@@ -1,0 +1,8 @@
+//wiredep injects bower scss files here
+// bower:scss
+@import "../../bower_components/sassy-maps/sass/_sassy-maps.scss";
+@import "../../bower_components/breakpoint-sass/stylesheets/_breakpoint.scss";
+@import "../../bower_components/normalize-scss/_normalize.scss";
+// endbower
+
+body{background: red}
