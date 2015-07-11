@@ -1,8 +1,12 @@
-default : []
+default :
+    - 'makeIt'
+
+makeIt :
+    - 'watch'
 
 sassIt :
     - 'sass'
 
 injectIt :
-    - 'wiredep'
     - 'injector'
+    - 'wiredep'

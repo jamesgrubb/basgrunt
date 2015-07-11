@@ -1,0 +1,30 @@
+{
+  "main": "colors.scss",
+  "name": "colors",
+  "description": "Forked from mrmrs color project",
+  "keywords": [
+    "colors"
+  ],
+  "authors": [
+    "James Grubb <james@jamesgrubb.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/jamesgrubb/colors",
+  "_release": "0abbd89344",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0abbd8934468c36a58f6ef33ead51382f1a8db71"
+  },
+  "_source": "https://github.com/jamesgrubb/colors.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/jamesgrubb/colors.git",
+  "_direct": true
+}

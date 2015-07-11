@@ -1,8 +1,14 @@
-//wiredep injects bower scss files here
 // bower:scss
+@import "../../bower_components/colors/colors.scss";
+@import "../../bower_components/normalize-scss/_normalize.scss";
 @import "../../bower_components/sassy-maps/sass/_sassy-maps.scss";
 @import "../../bower_components/breakpoint-sass/stylesheets/_breakpoint.scss";
-@import "../../bower_components/normalize-scss/_normalize.scss";
 // endbower
 
-body{background: red}
+@import 'susy';
+
+
+
+.wall{
+    @include layout(12 (60px 20px) split static show);
+}

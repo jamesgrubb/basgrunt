@@ -1,0 +1,20 @@
+{
+  "main": "colors.scss",
+  "name": "colors",
+  "version": "0.0.1",
+  "description": "Forked from mrmrs color project",
+  "keywords": [
+    "colors"
+  ],
+  "authors": [
+    "James Grubb <james@jamesgrubb.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
